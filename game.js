@@ -1,5 +1,6 @@
 const question = document.getElementById('question');
 const choices = Array.from(document.getElementsByClassName('choice-text'));
+getElementById
 
 let currentQuestion = {};
 let acceptingAnswers = false;
