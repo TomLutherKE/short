@@ -1,26 +1,26 @@
 [
   {
-    "question": "Inside which HTML element do we put the JavaScript??",
-    "choice1": "<script>",
-    "choice2": "<javascript>",
-    "choice3": "<js>",
-    "choice4": "<scripting>",
-    "answer": 1
-  },
-  {
-    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-    "choice1": "<script href='xxx.js'>",
-    "choice2": "<script name='xxx.js'>",
-    "choice3": "<script src='xxx.js'>",
-    "choice4": "<script file='xxx.js'>",
+    "question": "Which of the following books was written by Cormac McCarthy?",
+    "choice1": "Frankenstein",
+    "choice2": "48 Laws Of Power",
+    "choice3": "Blood Meridian",
+    "choice4": "Who Moved My Cheese?",
     "answer": 3
   },
   {
-    "question": " How do you write 'Hello World' in an alert box?",
-    "choice1": "msgBox('Hello World');",
-    "choice2": "alertBox('Hello World');",
-    "choice3": "msg('Hello World');",
-    "choice4": "alert('Hello World');",
+    "question": "What part of Africa was the Songhai Empire located?",
+    "choice1": "Northern Africa",
+    "choice2": "Eastern Africa",
+    "choice3": "Western Africa",
+    "choice4": "Southern Africa",
+    "answer": 3
+  },
+  {
+    "question": "Which European game company is known for grand strategy games?",
+    "choice1": "Ubisoft",
+    "choice2": "Criterion",
+    "choice3": "DICE",
+    "choice4": "Paradox",
     "answer": 4
   }
 ]
