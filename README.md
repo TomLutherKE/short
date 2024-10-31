@@ -19,7 +19,7 @@ Welcome to **Scholarly Hub Of Randomized Trivia**, or **S.H.O.R.T**! This is a s
 
 ## Usage
 
-To play the quiz, simply access it through the GitHub landing page provided:
+To play the quiz, simply access it through the [GitHub landing page provided](https://tomlutherke.github.io/short/).
 
 ## Technologies Used
 
@@ -40,4 +40,4 @@ Contributions are welcome! If you would like to contribute to Scholarly Hub Of R
 
 ## License
 
-This project is licensed under a MIT License.
+This project is licensed under an MIT License.
