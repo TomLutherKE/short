@@ -15,8 +15,7 @@ Welcome to **Scholarly Hub Of Randomized Trivia**, or **S.H.O.R.T**! This is a s
 - Randomized trivia questions from multiple categories
 - User-friendly interface
 - Score tracking
-- Option to review correct answers after each quiz
-- Mobile-friendly design
+- Real-time feedback on user answers
 
 ## Usage
 
